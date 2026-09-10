@@ -1,6 +1,6 @@
 {
-  "name": "exemplo00-template",
-  "version": "1.0.0",
+  "name": "exemplo-00",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "types": "module",
